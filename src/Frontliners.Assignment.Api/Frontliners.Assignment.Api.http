@@ -1,0 +1,6 @@
+@Frontliners.Assignment.Api_HostAddress = http://localhost:5163
+
+GET {{Frontliners.Assignment.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
